@@ -1,0 +1,5 @@
+main.o
+*.sym
+*.sms
+music/*.json
+music/*.asm

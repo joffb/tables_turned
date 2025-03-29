@@ -1,0 +1,7 @@
+[objects]
+main.o
+banjo.o
+banjo_sn.o
+
+[ramsections]
+bank 0 slot 3 "BANJO_RAM"
